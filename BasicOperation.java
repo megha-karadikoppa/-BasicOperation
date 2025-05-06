@@ -7,6 +7,6 @@ public class BasicOperation{
         int prod = a * b;
         system.out.println("Addition:" + sum);
         system.out.println("Subtraction:" + diff);
-           system.out.println("multiplication:" + prod);
+        system.out.println("multiplication:" + prod);
     }
 }
